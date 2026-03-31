@@ -1,4 +1,4 @@
-# On Predictability of Reinforcement Learning Dynamics for Large Language Models
+# Reproduction Code for "On Predictability of Reinforcement Learning Dynamics for Large Language Models"
 
 This repository corresponds to the paper:
 
@@ -71,16 +71,3 @@ sh AlphaPredVector.sh
 sh AlphaRLBuildPredictModel.sh
 ```
 
-
-This repository provides an evaluation framework inspired by **LIMO**, which can be found [here](https://github.com/GAIR-NLP/LIMO).
-
-If you find this project interesting, feel free to ⭐ star the repository or open an issue for discussion!
-
-If you use this code in your research, please cite:
-```bibtex
-@article{cai2025predictability,
-  title={On Predictability of Reinforcement Learning Dynamics for Large Language Models},
-  author={Cai, Yuchen and Cao, Ding and Xu, Xin and Yao, Zijun and Huang, Yuqing and Tan, Zhenyu and Zhang, Benyi and Liu, Guiquan and Fang, Junfeng},
-  journal={arXiv preprint arXiv:2510.00553},
-  year={2025}
-}
