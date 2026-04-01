@@ -21,3 +21,4 @@ scikit-learn
 evaluate
 mpi4py
 importlib-metadata
+latex2sympy2
